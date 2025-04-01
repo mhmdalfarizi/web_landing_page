@@ -116,4 +116,4 @@ Landing page ini kompatibel dengan browser modern:
 
 ---
 
-Dibuat oleh Izi - PPLG 
+Dibuat oleh Muhamad Alfarizi 
