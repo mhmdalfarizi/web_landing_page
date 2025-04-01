@@ -2,6 +2,8 @@
 
 Landing page sederhana untuk branding diri pengusaha yang responsif, modern, dan profesional. Proyek ini dibuat dengan HTML, CSS, dan JavaScript murni tanpa framework tambahan.
 
+✨ **[DEMO LIVE WEBSITE](https://mhmdalfarizi.github.io/easyglow-landing-page/)** ✨
+
 ## Fitur
 
 - Desain responsif yang bekerja di semua perangkat (mobile, tablet, desktop)
